@@ -25,7 +25,8 @@ h1 {
 }
 h2 {
     font-size: 2rem;
-    margin-left: 3rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
     margin-bottom: 1rem;
 }
 body {
@@ -42,6 +43,13 @@ nav.nav{
     background-color: #e27bb4;
 }
 #img {
+    width: 5rem;
+    height: 5rem;
+    margin-top: 0;
+    margin-left: 0;
+    margin-block: 0;
+}
+#image {
     width: 5rem;
     height: 5rem;
     margin-top: 0;
@@ -65,14 +73,15 @@ p {
   margin-bottom: 2rem;
 }
 .agradecimentos {
-    margin-top: 3rem;
+    margin-top: 5rem;
     font-size: 2.5rem;
-    margin-left: 14rem;
+    margin-left: 28rem;
 }
 footer {
     color: #b43179;
     display: flex;
-    margin-top: 3rem;
+    margin-top: 10rem;
+    margin-left: 0;
     
 }
 .about {
@@ -82,10 +91,14 @@ footer {
 }
 .a {
     color: #b43179;
-    padding-right: 3rem;
+    padding-right: 0.5rem;
     display: flex;
+    margin-top: 0.3rem;
+    margin-left: 6rem;
     justify-content: space-between;
-    list-style-type: none;
+}
+strong {
+    font-size: 2.5rem;
 }
 
 
