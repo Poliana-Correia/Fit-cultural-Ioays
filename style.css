@@ -65,7 +65,8 @@ nav.nav{
     margin-top: 3rem;
 }
 .respostasFit {
-    margin-left: 2rem;
+    margin-left: 3rem;
+    margin-right: 4rem;
     margin-top: 3rem;
     font-size: 2rem;
 }
@@ -75,12 +76,12 @@ p {
 .agradecimentos {
     margin-top: 5rem;
     font-size: 2.5rem;
-    margin-left: 28rem;
+    margin-left: 15rem;
 }
 footer {
     color: #b43179;
     display: flex;
-    margin-top: 10rem;
+    margin-top: 5rem;
     margin-left: 0;
     
 }
