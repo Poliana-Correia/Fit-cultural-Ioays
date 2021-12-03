@@ -12,14 +12,16 @@ ul.topicos {
 }
 li {
     font-size: 2rem;
+    margin-block: 1rem;
 }
-a{
+a {
     font-size: 25px;
     color:black;
 }
 h1 {
     text-align: center;
     font-size: 4rem;
+    margin-top: 2rem;
 }
 h2 {
     font-size: 2rem;
@@ -50,6 +52,42 @@ nav.nav{
     display: flex;
     align-items: center;
 }
+.listaApresentacao {
+    margin-left: 8rem;
+    margin-top: 3rem;
+}
+.respostasFit {
+    margin-left: 2rem;
+    margin-top: 3rem;
+    font-size: 2rem;
+}
+p {
+  margin-bottom: 2rem;
+}
+.agradecimentos {
+    margin-top: 3rem;
+    font-size: 2.5rem;
+    margin-left: 14rem;
+}
+footer {
+    color: #b43179;
+    display: flex;
+    margin-top: 3rem;
+    
+}
+.about {
+    display: flex; 
+    padding-right: 3rem;
+    
+}
+.a {
+    color: #b43179;
+    padding-right: 3rem;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
 
 
 
