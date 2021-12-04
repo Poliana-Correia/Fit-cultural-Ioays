@@ -20,7 +20,7 @@ a {
 }
 h1 {
     text-align: center;
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 2rem;
 }
 h2 {
@@ -76,7 +76,7 @@ p {
 .agradecimentos {
     margin-top: 5rem;
     font-size: 2.5rem;
-    margin-left: 15rem;
+    margin-left: 2rem;
 }
 footer {
     color: #b43179;
@@ -95,10 +95,10 @@ footer {
     padding-right: 0.5rem;
     display: flex;
     margin-top: 0.3rem;
-    margin-left: 6rem;
     justify-content: space-between;
 }
 strong {
+    color: #b43179;
     font-size: 2.5rem;
 }
 
