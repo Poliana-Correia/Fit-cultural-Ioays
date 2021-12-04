@@ -23,9 +23,9 @@ h1 {
     font-size: 3rem;
     margin-top: 2rem;
 }
-h2 {
+.h2 {
     font-size: 2rem;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     margin-left: 1rem;
     margin-bottom: 1rem;
 }
@@ -46,7 +46,7 @@ nav.nav{
     width: 5rem;
     height: 5rem;
     margin-top: 0;
-    margin-left: 0;
+    margin-left: 2rem;
     margin-block: 0;
 }
 #image {
@@ -57,6 +57,7 @@ nav.nav{
     margin-block: 0;
 }
 .container {
+    margin-left: 1rem;
     display: flex;
     align-items: center;
 }
@@ -80,21 +81,16 @@ p {
 }
 footer {
     color: #b43179;
-    display: flex;
     margin-top: 5rem;
     margin-left: 0;
     
 }
 .about {
     display: flex; 
-    padding-right: 3rem;
-    
 }
-.a {
-    color: #b43179;
-    padding-right: 0.5rem;
-    display: flex;
-    margin-top: 0.3rem;
+.a {   
+    width: 16rem;
+    padding-right: 1;  
     justify-content: space-between;
 }
 strong {
