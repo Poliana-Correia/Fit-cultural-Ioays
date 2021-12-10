@@ -10,6 +10,9 @@ ul.topicos {
     align-items: center;
     width: 30rem;
 }
+main {
+    margin-top: 10rem;
+}
 li {
     font-size: 2rem;
     margin-block: 1rem;
@@ -39,8 +42,11 @@ img {
 nav.nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: 0;
     background-color: #e27bb4;
+    position: fixed;
+    top: 0rem;
+    width: 110rem;
 }
 #img {
     width: 5rem;
@@ -72,7 +78,7 @@ nav.nav{
     font-size: 2rem;
 }
 p {
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
 }
 .agradecimentos {
     margin-top: 5rem;
