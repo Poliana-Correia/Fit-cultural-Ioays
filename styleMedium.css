@@ -3,7 +3,6 @@
     padding: 0;
 }
 ul.topicos {
-    background: red;
     padding-right: 3rem;
     display: flex;
     justify-content: space-between;
