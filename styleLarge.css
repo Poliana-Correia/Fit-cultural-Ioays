@@ -3,6 +3,7 @@
     padding: 0;
 }
 ul.topicos {
+    background: red;
     padding-right: 3rem;
     display: flex;
     justify-content: space-between;
@@ -46,7 +47,7 @@ nav.nav{
     background-color: #e27bb4;
     position: fixed;
     top: 0rem;
-    width: 110rem;
+    width: 100%;
 }
 #img {
     width: 5rem;
