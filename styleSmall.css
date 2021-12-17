@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul.topicos {
+    margin-left: 1rem;;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 4rem;
+    gap: 1rem;
+   
+}
+main {
+    margin-top: 2rem;
+}
+
+.cabecalho {
+    color: black;
+    font-size: .8rem;
+    display: flex;  
+}
+
+li {
+    
+    font-size: 1rem;
+    margin-block: 1rem;
+    
+}
+
+h1 {
+    margin-top: 6rem;
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+}
+.subTitulo {
+    margin-left: 4rem ;
+    margin-right: 3rem;
+    margin-top: 2rem;
+}
+.h2 {
+    font-size: 1.5rem;
+}
+body {
+    background: #e2e7e7;
+}
+img {
+    margin-top: 3rem;
+    width: 50%;
+}
+nav.nav{
+    display: flex;
+    align-items: center;
+    justify-content: 0;
+    background-color: #e27bb4;
+    position: fixed;
+    top: 0rem;
+    width: 23rem;
+    height: 4rem;
+}
+#img {
+    width: 4rem;
+    height: 4rem;
+    margin-top: 0;
+    margin-left: 1rem;
+    margin-block: 0;
+}
+#image {
+    width: 5rem;
+    height: 1rem;
+  
+}
+.container {
+    margin-left: 1rem;
+    display: flex;
+    align-items: center;
+}
+.listaApresentacao {
+    list-style-type: none;
+    margin-left: 1rem;
+    margin-top: 4rem;
+}
+.respostasFit {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+.agradecimentos {
+    margin-top: 4rem;
+    margin-left: 1rem;
+    font-size: 1rem;
+    
+}
+footer {
+    color: #b43179;
+    margin-top: 9rem;
+    margin-left: 1rem;
+    
+}
+.about {
+    display: flex; 
+}
+.a {   
+    width: 4rem;
+    padding-right: 1rem;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+strong {
+    color: #b43179;
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
