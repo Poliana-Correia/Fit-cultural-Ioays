@@ -9,7 +9,7 @@ ul.topicos {
     justify-content: space-between;
     list-style-type: none;
     width: 4rem;
-    gap: 1rem;
+    gap: 6rem;
    
 }
 main {
@@ -23,10 +23,8 @@ main {
 }
 
 li {
-    
     font-size: 1rem;
     margin-block: 1rem;
-    
 }
 
 h1 {
@@ -53,7 +51,7 @@ img {
 nav.nav{
     display: flex;
     align-items: center;
-    justify-content: 0;
+    justify-content:0;
     background-color: #e27bb4;
     position: fixed;
     top: 0rem;
